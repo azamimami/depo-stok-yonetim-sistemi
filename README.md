@@ -1,4 +1,4 @@
-#Depo ve Stok Yönetim Sistemi
+# Depo ve Stok Yönetim Sistemi
 Python ile geliştirilmiş terminal tabanlı bir depo ve stok yönetim sistemidir. Sistem,
 ürün stoklarının yönetilmesini ve sipariş süreçlerinin nesne yönelimli programlama (OOP) yapısı ile kontrol edilmesini sağlar.
 
