@@ -77,7 +77,6 @@ Profesyonel ve kullanıcı dostu bir Depo ve Stok Yönetim Sistemi. PyQt5 ve Mat
 - 👥 **Rol Bazlı Yetkilendirme** - Admin ve personel farklı yetkiler
 - 🚪 **Oturum Yönetimi** - Güvenli giriş/çıkış işlemleri
 
-<img width="441" height="477" alt="Login" src="https://github.com/user-attachments/assets/d31f9b49-3f12-42cc-bfeb-bfdab05e18a8" />
 <img width="1440" height="900" alt="kullanici" src="https://github.com/user-attachments/assets/d363e7d9-766e-4e57-b3fc-f9825a9a32f0" />
 
 
