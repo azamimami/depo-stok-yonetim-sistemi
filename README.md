@@ -6,7 +6,8 @@ Profesyonel ve kullanıcı dostu bir Depo ve Stok Yönetim Sistemi. PyQt5 ve Mat
 - Admin: `admin` / `admin123`
 - Personel: `depo` / `depo123`
 
-<img width="441" height="477" alt="Login" src="https://github.com/user-attachments/assets/ba15b7e2-1be8-45ec-bac5-5c5da1fd240b" />
+<img width="450" height="473" alt="Screenshot 2026-05-15 at 19 04 22" src="https://github.com/user-attachments/assets/6d3558e6-6ac3-4556-8d35-89abd2e7a12e" />
+
 
 
 # 📋 Özellikler
